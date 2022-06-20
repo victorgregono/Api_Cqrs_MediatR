@@ -1,1 +1,1 @@
-# Api_Cqrs_MediatR 
+# Api_Cqrs_MediatR
